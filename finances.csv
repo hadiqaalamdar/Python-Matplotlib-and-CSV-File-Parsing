@@ -1,0 +1,253 @@
+2016-01-01,Diamond Parking,4.0,car
+2016-01-03,Safeway,32.78,food
+2016-01-07,Bed Bath & Beyond,15.99,home
+2016-01-08,Pottery Barn,49.0,home
+2016-01-09,Newman's,11.69,food
+2016-01-09,Safeway,37.07,food
+2016-01-09,Safeway,6.75,food
+2016-01-09,True Value,10.58,home
+2016-01-12,Twist,43.05,home
+2016-01-14,Best Buy,59.99,home
+2016-01-14,Chevron,27.27,car
+2016-01-14,Safeway,10.77,food
+2016-01-17,Safeway,27.91,food
+2016-01-18,Bed Bath & Beyond,81.14,home
+2016-01-18,Safeway,21.08,food
+2016-01-18,Trader Joe's,63.41,food
+2016-01-22,Newman's,8.49,food
+2016-01-22,Sunrise Asian Market,41.07,food
+2016-01-22,amazon.com,14.49,home
+2016-01-23,Dollar Tree,42.1,home
+2016-01-23,Oregon Art Supply,13.59,home
+2016-01-24,Dollar Tree,10.0,home
+2016-01-24,Michaels,21.1,home
+2016-01-28,Safeway,20.5,food
+2016-01-30,Chevron,20.0,car
+2016-01-31,Chevron,31.02,car
+2016-01-31,Safeway,63.25,food
+2016-02-03,Safeway,36.94,food
+2016-02-04,Chevron,28.74,car
+2016-02-05,Newman's,7.89,food
+2016-02-06,Safeway,24.37,food
+2016-02-07,Bed Bath & Beyond,11.99,home
+2016-02-07,Penny’s,21.0,home
+2016-02-07,Safeway,51.1,food
+2016-02-07,Trader Joe's,10.98,food
+2016-02-08,Kohls,33.14,home
+2016-02-11,Safeway,15.06,food
+2016-02-13,Trader Joe's,62.29,food
+2016-02-14,Safeway,51.66,food
+2016-02-15,Sunrise Asian Market,56.9,food
+2016-02-17,Safeway,28.21,food
+2016-02-20,True Value,34.98,home
+2016-02-21,Chevron,26.75,car
+2016-02-21,Down to Earth,13.03,home
+2016-02-21,True Value,11.99,home
+2016-02-22,Chevron,23.52,car
+2016-02-26,Sweet Life Patisserie,28.0,food
+2016-02-29,Safeway,18.65,food
+2016-03-03,Sunrise Asian Market,15.49,food
+2016-03-08,Chevron,24.64,car
+2016-03-08,Newman's,21.0,home
+2016-03-09,Safeway,75.63,food
+2016-03-12,Safeway,28.56,food
+2016-03-13,Amazon.com,24.24,home
+2016-03-13,Safeway,63.48,food
+2016-03-13,Safeway,7.98,food
+2016-03-14,Trader Joe's,47.15,food
+2016-03-16,Amazon.com,61.25,home
+2016-03-16,Chevron,26.92,car
+2016-03-16,Hiron's,9.98,home
+2016-03-19,Safeway,27.01,food
+2016-03-19,Shell,15.55,car
+2016-03-20,Safeway,25.73,food
+2016-03-23,Chevron,16.54,car
+2016-03-25,Chevron,34.2,car
+2016-03-27,Safeway,31.56,food
+2016-03-27,Trader Joe's,13.95,food
+2016-03-29,Sunrise Asian Market,43.8,home
+2016-03-29,True Value,29.77,home
+2016-03-31,Bed Bath Beyond,11.99,home
+2016-03-31,Chevron,29.37,car
+2016-04-02,Fred Meyer,50.0,home
+2016-04-02,Home Depot,44.52,home
+2016-04-03,Safeway,75.83,food
+2016-04-05,Bed Bath & Beyond,11.18,home
+2016-04-05,Safeway,46.51,food
+2016-04-09,Chevron,28.84,car
+2016-04-09,Safeway,54.35,food
+2016-04-12,Home Depot,21.93,home
+2016-04-14,Sunrise Asian Market,36.06,food
+2016-04-17,Safeway,36.61,food
+2016-04-18,Safeway,19.69,food
+2016-04-18,True Value,8.79,home
+2016-04-20,Sunrise Asian Market,18.39,home
+2016-04-22,Safeway,51.88,food
+2016-04-24,Chevron,26.43,car
+2016-04-24,Safeway,52.5,food
+2016-04-27,Chevron,24.66,car
+2016-04-30,Safeway,31.43,food
+2016-05-02,Safeway,45.12,food
+2016-05-05,Hiron's,13.07,home
+2016-05-05,Safeway,41.67,food
+2016-05-15,Safeway,88.71,food
+2016-05-21,Johnson Brothers Greenhouse,10.99,home
+2016-05-21,Safeway,39.36,food
+2016-05-22,City of Portland Parking,2.0,car
+2016-05-22,City of Portland Parking,3.0,car
+2016-05-22,Chevron,39.87,car
+2016-05-25,Johnson Brothers Greenhouse,69.98,home
+2016-05-25,Safeway,64.67,food
+2016-05-27,Chevron,25.04,car
+2016-05-28,Safeway,18.44,food
+2016-05-29,Home Depot,8.47,home
+2016-05-30,Safeway,41.28,food
+2016-06-02,Long’s Meat market,26.06,food
+2016-06-02,Safeway,35.35,food
+2016-06-04,Chevron,31.14,car
+2016-06-04,Farmer’s market,42.0,food
+2016-06-05,Chevron,37.8,car
+2016-06-05,Safeway,70.67,food
+2016-06-06,City of Eugene Airport,3.75,car
+2016-06-06,Coastal Farm,75.76,home
+2016-06-07,Amazon Prime,99.0,home
+2016-06-09,City of Eugene Parking,0.75,car
+2016-06-09,Safeway,43.91,food
+2016-06-10,Newman’s Fish,34.2,food
+2016-06-11,Fruit from Sat. Market,22.0,food
+2016-06-11,Johnson Vegetable Farm,18.61,food
+2016-06-11,True Value,19.48,home
+2016-06-12,Safeway,46.45,food
+2016-06-12,Trader Joe's,10.95,food
+2016-06-14,Chevron,22.53,car
+2016-06-14,Long’s Meat market,29.0,food
+2016-06-14,PDX Airport Parking,6.0,car
+2016-06-14,Safeway,6.3,food
+2016-06-17,Safeway,21.57,food
+2016-06-19,Safeway,26.6,food
+2016-06-20,Storage Maniac,49.99,home
+2016-06-21,Chevron,31.26,car
+2016-06-21,Safeway,14.33,food
+2016-06-21,Tommy’s Paint Pot,4.49,home
+2016-07-08,Bed Bath & Beyond,51.95,home
+2016-07-08,Newman's,30.58,food
+2016-07-08,Safeway,17.33,food
+2016-07-08,True Value,9.99,home
+2016-07-09,Costco,35.82,car
+2016-07-14,Shell,31.92,car
+2016-07-17,amazon.com,12.99,home
+2016-07-17,amazon.com,13.99,home
+2016-07-17,amazon.com,6.99,home
+2016-07-19,Chevron,32.56,car
+2016-07-19,Safeway,69.38,food
+2016-07-21,Office Max,18.16,home
+2016-07-22,True Value,9.99,home
+2016-07-23,Safeway,28.55,food
+2016-07-23,amazon.com,49.0,home
+2016-07-27,Chevron,27.99,car
+2016-07-29,Safeway,86.17,food
+2016-07-29,Target,51.67,home
+2016-07-31,Lone Pine Farms,24.67,food
+2016-07-31,Safeway,38.32,food
+2016-08-01,Safeway,24.3,food
+2016-08-05,Safeway,59.97,food
+2016-08-05,amazon.com,61.94,home
+2016-08-08,Chevron,8.19,car
+2016-08-10,Bed Bath & Beyond,47.96,home
+2016-08-10,Safeway,27.99,food
+2016-08-13,Chevron,28.57,car
+2016-08-15,Safeway,40.19,food
+2016-08-19,Chevron,23.14,car
+2016-08-19,Safeway,25.05,food
+2016-08-19,amazon.com,19.53,home
+2016-08-22,TJ MAXX,7.99,home
+2016-08-24,Shell,27.37,car
+2016-08-26,Chevron,39.66,car
+2016-08-27,Safeway,20.6,food
+2016-08-28,Safeway,14.93,food
+2016-08-30,Safeway,21.69,food
+2016-08-31,Bed Bath & Beyond,29.98,home
+2016-09-03,Long's Meat Market,15.9,food
+2016-09-04,Safeway,42.01,food
+2016-09-05,Chevron,30.01,car
+2016-09-08,City of Portland Parking,2.0,car
+2016-09-08,Chevron,23.77,car
+2016-09-08,Griots Garage,30.0,car
+2016-09-09,Safeway,44.45,food
+2016-09-12,Safeway,65.73,food
+2016-09-13,Bed Bath & Beyond,51.96,home
+2016-09-14,Bed Bath & Beyond,51.96,home
+2016-09-14,True Value,7.99,home
+2016-09-15,City of Eugene Parking,1.0,car
+2016-09-15,Chevron,29.68,car
+2016-09-15,Safeway,44.8,food
+2016-09-17,Safeway,11.9,food
+2016-09-18,Jerrys Home Improvement,20.99,home
+2016-09-18,Jerrys Home Improvement,35.99,home
+2016-09-20,Safeway,54.55,food
+2016-09-23,City of Eugene Parking 3,3.25,car
+2016-09-23,Chevron,39.11,car
+2016-09-23,Safeway,8.61,food
+2016-09-24,City of Eugene Airport,2.5,car
+2016-09-25,Safeway,8.63,food
+2016-09-27,City of Corvallis Parking,0.3,car
+2016-09-27,Chevron,27.22,car
+2016-09-27,Costco,45.25,home
+2016-09-28,Safeway,29.56,food
+2016-09-28,amazon.com,40.8,home
+2016-09-30,Chevron,39.21,car
+2016-09-30,Newmans,30.74,home
+2016-09-30,Safeway,56.68,food
+2016-09-30,amazon.com,14.22,home
+2016-10-02,Safeway,54.4,food
+2016-10-02,Whole Foods,47.84,home
+2016-10-03,Safeway,38.21,food
+2016-10-05,Sunrise Asian Market,19.48,home
+2016-10-07,Bed Bath & Beyond,14.99,home
+2016-10-07,Chevron,26.8,car
+2016-10-08,Costco,87.9,home
+2016-10-10,Whole Foods,95.5,home
+2016-10-13,Jerrys Home Improvement,13.47,home
+2016-10-15,Bed Bath & Beyond,49.97,home
+2016-10-16,Safeway,25.05,food
+2016-10-18,Newman's,32.75,home
+2016-10-20,Chevron,15.0,car
+2016-10-21,Safeway,25.91,food
+2016-10-22,RiteAid,5.01,home
+2016-10-23,Safeway,24.77,food
+2016-10-24,Chevron,34.3,car
+2016-10-25,Bed Bath & Beyond,67.72,home
+2016-10-26,Safeway,28.9,food
+2016-10-28,Chevron,36.62,car
+2016-10-29,Safeway,32.15,food
+2016-10-31,Safeway,52.9,food
+2016-11-10,Chevron,28.08,car
+2016-11-11,Trader Joe's,23.99,food
+2016-11-13,Down to Earth Home and Ga,18.87,home
+2016-11-14,Chevron,31.09,car
+2016-11-15,Safeway,53.04,food
+2016-11-16,Safeway,49.4,food
+2016-11-17,Bed Bath & Beyond,40.0,home
+2016-11-18,Trader Joe's,54.25,food
+2016-11-19,Safeway,9.97,food
+2016-11-21,Safeway,12.15,food
+2016-11-21,Trader Joe's,49.41,food
+2016-11-22,Plaza Latina,9.0,food
+2016-11-25,Safeway,21.75,food
+2016-11-26,Chevron,24.85,car
+2016-11-27,Safeway,8.52,food
+2016-12-02,Bed Bath & Beyond,40.0,home
+2016-12-05,Safeway,9.57,food
+2016-12-06,Chevron,29.87,car
+2016-12-07,Safeway,44.71,food
+2016-12-08,Chevron,24.14,car
+2016-12-12,True Value,39.34,home
+2016-12-14,Safeway,61.35,food
+2016-12-17,Shell,32.18,car
+2016-12-17,Trader Joe's,22.54,food
+2016-12-18,Powell’s,99.94,home
+2016-12-19,Safeway,38.91,food
+2016-12-21,Coburg Road car Wash,42.0,car
+2016-12-21,Trader Joe's,34.02,food
+2016-12-23,Safeway,35.6,food
+2016-12-29,Chevron,24.31,car
